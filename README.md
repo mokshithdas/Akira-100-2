@@ -1,8 +1,21 @@
-##Project Title
-AUTOMATED MENU ORDERING SYSTEM
+## Project Title
 
-##Getting Started
-The hack prepared reduces human efoort of taking orders and increases efficiency of ordering system by making the whole process to digital.
+Automated Menu Ordering System
 
-##Prerequisites
-In order to use the hack prepared by us ,we need you to install microsoft visual c++ express which is an essential tool to run this.
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for execution.
+
+### Prerequisites
+
+software required:visual studio;
+
+### Installing
+
+Visual Studio can be downloaded from the following link https://www.visualstudio.com/downloads/
+
+### Break down into end to end tests
+
+code effiency and some requirements that are need to be met by hack.
+
+###images
